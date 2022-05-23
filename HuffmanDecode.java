@@ -10,7 +10,7 @@ import java.util.*;
  */
 public class HuffmanDecode {
     public static void main(String[] args) {
-       //
+       //srcFile是输入，dstFile是输出。
         String srcFile="E://src2.bmp";
         String dstFile="E://dst2.zip";
         //1、zipFile方法是压缩
